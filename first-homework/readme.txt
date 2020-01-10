@@ -1,0 +1,1 @@
+Programı çalıştırmak için komut ekranına 'minGW32-make' komutunu girin.
